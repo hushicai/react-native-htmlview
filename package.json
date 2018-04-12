@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "entities": "^1.1.1",
+    "eventemitter3": "^3.0.1",
     "prop-types": "^15.6.1"
   },
   "peerDependencies": {
