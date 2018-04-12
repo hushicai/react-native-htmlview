@@ -6,4 +6,4 @@
 
 ### TODO
 
-改造react-native-htmlview，样式继承方面存在一些问题。
+改造HTMLView，样式继承方面存在一些问题。
